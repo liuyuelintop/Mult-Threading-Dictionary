@@ -1,1 +1,1 @@
-# Mult-Threading-Dictionary
+# Multi-Threading-Dictionary
